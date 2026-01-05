@@ -1,0 +1,6 @@
+@import "tailwindcss";
+.gradient-border {
+  border-width: 2px;
+  border-image-source: linear-gradient(to bottom right, #665DCD, #5FA4E6, #D2AB67);
+  border-image-slice: 1;
+}
